@@ -41,11 +41,6 @@ You can also add a `CITATION.cff` file to the repository so GitHub shows a “Ci
 This project is licensed under the **GNU General Public License v3.0** (GPL-3.0).
 You are free to use, modify, and distribute it under the terms of the GPL-3.0.
 
-* SPDX: `GPL-3.0-or-later`
-* See [LICENSE](./LICENSE) for full text.
-
-> Note: OpenFOAM itself is GPL-3.0; this project remains GPL-compatible.
-
 ---
 
 ## Acknowledgments
