@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RadioactiveMoose
 - 👀 I’m interested in space engineering, scientific coding and embedded electronics
 - 🌱 I’m currently learning C++, Git, OOP, Robotics and Computer Vision
-- 💞️ I’m looking to collaborate on robotics projects
+- 💞️ I’m looking to collaborate on robotics and fluid dynamics projects
 - 📫 How to reach me : khairy.guillem@gmail.com
 
 <!---
