@@ -57,6 +57,6 @@ You are free to use, modify, and distribute it under the terms of the GPL-3.0.
 
 ## Contact
 
-* Author: Your Name — [you@yourdomain.tld](mailto:you@yourdomain.tld)
+* Author: Guillem KHAIRY - guillem.khairy@uni.lu | khairy.guillem@gmail.com
 * Repo: [https://github.com/](https://github.com/RadioactiveMoose/RadioactiveMoose.git)
 
