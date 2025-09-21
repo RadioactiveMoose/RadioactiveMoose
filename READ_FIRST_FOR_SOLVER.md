@@ -1,4 +1,4 @@
-Hello dear reader,
+**Hello dear reader**
 
 This work is still ongoing, thus here are some bullet points :
 
