@@ -1,0 +1,17 @@
+#!/bin/sh
+cd ${0%/*} || exit 1    # Run from this directory
+
+# Parse arguments for library compilation
+. $WM_PROJECT_DIR/wmake/scripts/AllwmakeParseArguments
+
+wmake $targetType
+
+#Uncheck only if you modify these libraries, then you will have to change the directory of arrival in $FOAM_USER_LIBB
+#wmake $targetType fvModels/VoFTurbulenceDamping
+#wmake $targetType fvModels/VoFClouds
+#wmake $targetType fvModels/VoFCavitation
+wmake $targetType fvModels/VoFBoiling
+wmake $targetType fvModels/VoFBoiling/compressibleBoiling
+#wmake $targetType fvModels/VoFSolidificationMelting
+
+#------------------------------------------------------------------------------
