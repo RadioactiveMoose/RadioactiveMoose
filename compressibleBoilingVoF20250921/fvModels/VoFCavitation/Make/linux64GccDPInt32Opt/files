@@ -1,3 +1,0 @@
-SOURCE += VoFCavitation.C
-
-LIB = $(FOAM_USER_LIBBIN)/libcompressibleTESTVoFCavitation

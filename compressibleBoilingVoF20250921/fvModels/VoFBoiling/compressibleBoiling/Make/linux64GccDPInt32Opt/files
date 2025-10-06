@@ -1,5 +1,0 @@
-SOURCE += boilingModel/boilingModel.C
-SOURCE += boilingModel/boilingModelNew.C
-SOURCE += Lee/Lee.C
-
-LIB = $(FOAM_USER_LIBBIN)/libcompressibleBoilingModels

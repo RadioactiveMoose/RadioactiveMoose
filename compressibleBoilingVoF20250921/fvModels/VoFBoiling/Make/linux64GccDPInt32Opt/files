@@ -1,3 +1,0 @@
-SOURCE += VoFBoiling.C
-
-LIB = $(FOAM_USER_LIBBIN)/libcompressibleVoFBoiling
