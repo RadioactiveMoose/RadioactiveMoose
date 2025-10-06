@@ -1,0 +1,3 @@
+SOURCE += VoFSolidificationMelting.C
+
+LIB = $(FOAM_LIBBIN)/libVoFSolidificationMelting
