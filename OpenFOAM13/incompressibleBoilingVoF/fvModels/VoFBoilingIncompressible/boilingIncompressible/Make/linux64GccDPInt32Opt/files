@@ -1,0 +1,5 @@
+SOURCE += boilingIncompressibleModel/boilingIncompressibleModel.C
+SOURCE += boilingIncompressibleModel/boilingIncompressibleModelNew.C
+SOURCE += Lee/Lee.C
+
+LIB = $(FOAM_USER_LIBBIN)/libboilingIncompressibleModels

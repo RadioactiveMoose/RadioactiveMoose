@@ -1,0 +1,3 @@
+SOURCE += VoFBoilingIncompressible.C
+
+LIB = $(FOAM_USER_LIBBIN)/libVoFBoilingIncompressible

@@ -1,0 +1,5 @@
+boilingIncompressibleModel/boilingIncompressibleModel.C
+boilingIncompressibleModel/boilingIncompressibleModelNew.C
+Lee/Lee.C
+
+LIB = $(FOAM_USER_LIBBIN)/libboilingIncompressibleModels
